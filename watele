@@ -1,26 +1,10 @@
 {
-  "header_msg": "Halo selamat datang di PT Bandit Indo, ada yang bisa kami bantu?",
-  "footer_msg": "Silahkan ketik angka saja untuk memilih menu.",
-  "menu": [
-    {
-      "id": "1",
-      "keyword": "Cek Layanan",
-      "response": "Layanan kami meliputi pengiriman cepat, logistik, dan pergudangan."
-    },
-    {
-      "id": "2",
-      "keyword": "Harga/Tarif",
-      "response": "Untuk cek tarif silakan kunjungi website kami di banditindo.com/tarif"
-    },
-    {
-      "id": "3",
-      "keyword": "Lokasi Kantor",
-      "response": "Kantor pusat kami berada di Jakarta Barat. Buka setiap Senin-Jumat."
-    },
-    {
-      "id": "4",
-      "keyword": "Hubungi Admin",
-      "response": "Anda akan segera dihubungkan dengan Admin. Mohon tunggu sebentar."
-    }
-  ]
+  "pesan": "Halo selamat datang di XXXXXX, apa yang bisa kami bantu?",
+  "menu": "1. Cek Layanan\n2. Cek Harga\n3. Bantuan Admin\n4. Syarat & Ketentuan",
+  "jawaban_menu": {
+    "1": "Berikut adalah daftar layanan kami:\n- Layanan A\n- Layanan B\n- Layanan C",
+    "2": "Daftar harga terbaru kami dapat dilihat di katalog atau mulai dari Rp 50.000.",
+    "3": "Silahkan tunggu sebentar, pesan Anda telah diteruskan ke Admin kami.",
+    "4": "Syarat & Ketentuan:\n1. Dilarang spam\n2. Pembayaran diawal\n3. Proses 1x24 jam."
+  }
 }
